@@ -11,9 +11,6 @@ import java.net.UnknownHostException;
 
 /**
  * @Description: 客户端
- * @Author chenkangxian   
- * @Date 2013-6-14 下午09:11:54 
- * @Copyright: 2012 chenkangxian, All rights reserved.
  **/
 public class Client {
 	

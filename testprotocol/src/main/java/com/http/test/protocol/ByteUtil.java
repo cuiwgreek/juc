@@ -5,9 +5,6 @@ package com.http.test.protocol;
 
 /**
  * @Description: 字节转换
- * @Author chenkangxian   
- * @Date 2013-6-14 下午10:07:48 
- * @Copyright: 2012 chenkangxian, All rights reserved.
  **/
 public class ByteUtil {
 

@@ -5,9 +5,6 @@ package com.http.test.protocol;
 
 /**
  * @Description: 协议响应
- * @Author chenkangxian   
- * @Date 2013-6-14 下午09:11:28 
- * @Copyright: 2012 chenkangxian, All rights reserved.
  **/
 public class Response {
 	

@@ -11,9 +11,6 @@ import java.net.Socket;
 
 /**
  * @Description: 服务端
- * @Author chenkangxian   
- * @Date 2013-6-14 下午09:12:18 
- * @Copyright: 2012 chenkangxian, All rights reserved.
  **/
 public class Server {
 

@@ -12,6 +12,9 @@
         <module>charpter01</module>
         <module>testhttprpc</module>
         <module>testprotocol</module>
+        <module>testrestfulrpc</module>
+        <module>testserialization</module>
+        <module>testtcprpc</module>
     </modules>
 
 

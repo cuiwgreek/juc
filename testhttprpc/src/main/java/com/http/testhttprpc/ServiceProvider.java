@@ -14,10 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 /**
- * @Description: 服务提供者 
- * @Author chenkangxian   
- * @Date 2013-6-24 下午4:15:30 
- * @Copyright: 2012 chenkangxian, All rights reserved.
+ * @Description: 服务提供者
  **/
 public class ServiceProvider  extends HttpServlet{
 	

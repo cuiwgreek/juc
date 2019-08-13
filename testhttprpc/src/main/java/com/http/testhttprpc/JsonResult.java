@@ -3,19 +3,14 @@
  */
 package com.http.testhttprpc;
 
-/**
- * @Description: json½á¹û¼¯ 
- * @Author chenkangxian   
- * @Date 2013-6-24 ÏÂÎç8:33:24 
- * @Copyright: 2012 chenkangxian, All rights reserved.
- **/
+
 public class JsonResult {
 
-	//½á¹û×´Ì¬Âë
+	//ï¿½ï¿½ï¿½×´Ì¬ï¿½ï¿½
 	private int resultCode;
-	//×´Ì¬Âë½âÊÍÏûÏ¢
+	//×´Ì¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
 	private String message;
-	//½á¹û
+	//ï¿½ï¿½ï¿½
 	private Object result;
 	
 	public int getResultCode() {

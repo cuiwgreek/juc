@@ -17,10 +17,7 @@ import org.apache.http.util.EntityUtils;
 
 /**
  * 
- * @Description: 服务消费者 
- * @Author chenkangxian   
- * @Date 2013-6-24 下午4:18:52 
- * @Copyright: 2012 chenkangxian, All rights reserved.
+ * @Description: 服务消费者
  *
  */
 public class ServiceConsumer extends HttpServlet{

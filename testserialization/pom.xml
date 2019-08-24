@@ -11,5 +11,28 @@
 
     <artifactId>testserialization</artifactId>
 
+<dependencies>
+    <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.9.8</version>
+    </dependency>
 
+    <!-- https://mvnrepository.com/artifact/com.caucho/hessian -->
+    <dependency>
+        <groupId>com.caucho</groupId>
+        <artifactId>hessian</artifactId>
+        <version>4.0.38</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/com.thoughtworks.xstream/xstream -->
+    <dependency>
+        <groupId>com.thoughtworks.xstream</groupId>
+        <artifactId>xstream</artifactId>
+        <version>1.4.10</version>
+    </dependency>
+
+
+</dependencies>
 </project>

@@ -15,6 +15,7 @@
         <module>testrestfulrpc</module>
         <module>testserialization</module>
         <module>testtcprpc</module>
+        <module>test</module>
     </modules>
 
 

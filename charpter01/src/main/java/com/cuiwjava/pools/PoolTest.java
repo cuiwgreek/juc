@@ -23,7 +23,7 @@ public class PoolTest {
         // 2.可固定长度线程池
         ExecutorService newFixedThreadPool = Executors.newFixedThreadPool(3);
         for (int i = 0; i < 10; i++) {
-            int temp = i;
+            final int temp = i;
             newFixedThreadPool.execute(new Runnable() {
 
                 @Override
@@ -47,7 +47,7 @@ public class PoolTest {
         //4.单线程
         ScheduledExecutorService newSingleThreadScheduledExecutor = Executors.newSingleThreadScheduledExecutor();
         for (int i = 0; i < 10; i++) {
-            int temp = i;
+            final int temp = i;
 
             newSingleThreadScheduledExecutor.execute(new Runnable() {
 

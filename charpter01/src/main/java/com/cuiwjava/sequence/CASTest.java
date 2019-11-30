@@ -5,6 +5,8 @@ package com.cuiwjava.sequence;
  * @Description TODO
  * @Date 2019/11/30 17:51
  * @Created by cuiwei34
+ *
+ * 偏向锁 -> 自旋锁 -> 重量级锁
  */
 public class CASTest {
 	enum ReadyToRun{ T1, T2}
